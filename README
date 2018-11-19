@@ -1,0 +1,19 @@
+nodectl - Management console for node.js invoked scripts
+              license: GPL v2.0
+Help
+====
+..|[ nodectl ]|..
+cd         - change directory
+clear      - clear terminal
+help       - help (this)
+jls        - displays javascript files (-l for listing)
+kill       - kill node process by name or pid
+list       - list running node process
+ls         - displays files and dirs (-l for listing)
+pwd        - display current directory
+rehash     - rehash nodectl
+restart    - restart node processes
+run        - run node scripts
+quit       - quit nodectl
+whoami     - display current user
+
